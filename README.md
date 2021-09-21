@@ -1,7 +1,3 @@
-# crispy-train
-test git
+## push projects here..
 
-### Best editor in this era. 
-
-
-Google apps script and Github codespaces is the next gen developer's home.
+reset repo
